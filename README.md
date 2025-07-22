@@ -15,4 +15,15 @@ You can use it at your discression. there is no support for this plugin, and you
 
 Some blocks work, some don't. Mostly blocks that don't require additional input. 
 
-- core/paragraph does not work. I have it set up for a possible update in the future. 
+- core/paragraph does not work. I have it set up for a possible update in the future.
+
+  #To Install#
+
+  Sinply download the "bulk-insert-block.zip" file, then open in Wordpress - Plugins - Add Plugin.
+  The unzipped file is also there if you want to play.
+
+  # Got a Fix or Update? #
+
+  If you added to the plugin, let me know and I'll review to update this code.
+
+  Thanks! 
